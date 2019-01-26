@@ -760,7 +760,8 @@
                         onClick: this.props.renderHTMLtoPDF,
                         style: {
                             bottom: "80px",
-                            display:"none"
+                            display:"none",
+                            opacity:0
                         }
                     },
                     f.a.createElement("i", {
