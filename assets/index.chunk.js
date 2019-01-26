@@ -231,7 +231,7 @@
                     N()("https://api.github.com/users/skyvow/repos").then(function(e) {
                         return e.json()
                     }).then(function(e) {
-                        console.log(e)
+                        // console.log(e)
                         // e.message || a.setState({
                         //     publications: e.filter(function(e) {
                         //         return ! e.fork
