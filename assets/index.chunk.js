@@ -755,12 +755,12 @@
                         className: "close-icon"
                     },
                     "×")), f.a.createElement("a", {
-                        className: t,
-                        href: "javascript:;",
-                        onClick: this.props.renderHTMLtoPDF,
-                        style: {
-                            bottom: "80px"
-                        }
+                        // className: t,
+                        // href: "javascript:;",
+                        // onClick: this.props.renderHTMLtoPDF,
+                        // style: {
+                        //     bottom: "80px"
+                        // }
                     },
                     f.a.createElement("i", {
                         className: "glyphicon glyphicon-download-alt",
