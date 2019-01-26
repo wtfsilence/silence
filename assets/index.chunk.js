@@ -755,12 +755,13 @@
                         className: "close-icon"
                     },
                     "×")), f.a.createElement("a", {
-                        // className: t,
-                        // href: "javascript:;",
-                        // onClick: this.props.renderHTMLtoPDF,
-                        // style: {
-                        //     bottom: "80px"
-                        // }
+                        className: t,
+                        href: "javascript:;",
+                        onClick: this.props.renderHTMLtoPDF,
+                        style: {
+                            bottom: "80px",
+                            display:"none"
+                        }
                     },
                     f.a.createElement("i", {
                         className: "glyphicon glyphicon-download-alt",
@@ -871,7 +872,7 @@
                 profiles: [{
                     network: "github",
                     username: "silence",
-                    url: "https://github.com/silence6995"
+                    url: "https://github.com/wtfsilence"
                 },
                 {
                     network: "zhihu",
