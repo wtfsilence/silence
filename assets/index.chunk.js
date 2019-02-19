@@ -897,7 +897,7 @@
                 website: "",
                 startDate: "2016.09",
                 endDate: "2017.9",
-                summary: "西安智通工作室",
+                summary: "西安智通网络科技有限公司",
                 highlights: ["Photoshop 对设计图进行切片", "HTML5 + CSS3 编写网站页面，并保证浏览器的兼容性", "负责配合后台开发人员，完成页面的交互及接口对接", "负责电脑端及移动端 Web 项目的前端开发"]
             }],
             project: [{
