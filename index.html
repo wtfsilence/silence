@@ -142,7 +142,7 @@ input:-ms-input-placeholder { color: #e8e8e8; }
             disableed:false,
         },
         created(){
-            var aa  = document.documentElement.clientHeight;
+            var aa  = window.document.body.offsetHeight;
             document.getElementById("app").style.height = aa +'px'
             var _that = this;
             jQuery.ajax({
