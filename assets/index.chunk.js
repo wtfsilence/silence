@@ -861,14 +861,14 @@
                 position: "Web 前端工程师",
                 name: "张仪飞",
                 gender: "男",
-                age: "24",
-                worklife: "2",
+                age: "27",
+                worklife: "3",
                 label: "我是一个喜欢做菜的码农",
-                picture: "http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83erDWicTAsibynFicObgKUiaJRSD1gSMrGN94DcENQs72wM3BsxZ8k8tCtvjUxoUEyKhDgCKPnAZ89RNRA/132",
+                picture: "https://github.com/wtfsilence/wtfsilence.github.io/blob/master/assets/1.jpg",
                 email: "894532264@qq.com",
                 phone: "15594696995",
                 website: "https://github.com/silence",
-                summary: ["个人主攻 Web 前端和 APP 开发 和小程序开发，2年+前端开发经验，参与或独立开发过多个核心项目，项目类型涉及：电子商务、企业管理、旅游、趣味游戏等等", "喜欢关注 Web 前端相关新技术（React、Angular、Vue...），对于新技术有很强的学习兴趣", "喜欢技术高超的人，喜欢去研究一些新的知识", "热爱前端这份工作，也热爱一切美好的事物，对于我来说，是一种责任、是一种快乐"],
+                summary: ["个人主攻 Web 前端和 APP 开发 和小程序开发，3年+前端开发经验，参与或独立开发过多个核心项目，项目类型涉及：电子商务、企业管理、旅游、趣味游戏等等", "喜欢关注 Web 前端相关新技术（React、Angular、Vue...），对于新技术有很强的学习兴趣", "喜欢技术高超的人，喜欢去研究一些新的知识", "热爱前端这份工作，也热爱一切美好的事物，对于我来说，是一种责任、是一种快乐"],
                 location: "西安市雁塔区",
                 profiles: [{
                     network: "github",
@@ -881,7 +881,15 @@
                     url: "https://www.jianshu.com/u/c683865d3778"
                 }]
             },
-            work: [
+            work: [{
+                company: "西安趣链科技有限公司",
+                position: "Web 前端工程师",
+                website: "",
+                startDate: "2019.01",
+                endDate: "2020-12",
+                summary: "西安比熊网络科技有限公司",
+                highlights: ["根据产品需求文档，进行 Web 前端开发，前端主体框架选型，搭建基础框架", "根据设计提供的设计稿编写静态页面", "Javascript 数据处理、Ajax 交互开发", "负责配合后台开发人员，完成页面的交互及接口对接", "负责团队的前端开发质量，提高效率，实施前后端分离", "负责前端技术的完善，以用户为中心，不断尝试前端新技术，提升团队水平"]
+            },
             {
                 company: "西安比熊网络科技有限公司",
                 position: "Web 前端工程师",
@@ -889,17 +897,18 @@
                 startDate: "2017.09",
                 endDate: "2018-12",
                 summary: "西安比熊网络科技有限公司",
-                highlights: ["根据产品需求文档，进行 Web 前端开发，前端主体框架选型，搭建基础框架", "根据设计提供的设计稿编写静态页面", "Javascript 数据处理、Ajax 交互开发", "负责配合后台开发人员，完成页面的交互及接口对接", "负责团队的前端开发质量，提高效率，实施前后端分离", "负责前端技术的完善，以用户为中心，不断尝试前端新技术，提升团队水平"]
-            },
-            {
-                company: "西安智通网络科技有限公司",
-                position: "Web 前端工程师",
-                website: "",
-                startDate: "2016.09",
-                endDate: "2017.9",
-                summary: "西安智通网络科技有限公司",
                 highlights: ["Photoshop 对设计图进行切片", "HTML5 + CSS3 编写网站页面，并保证浏览器的兼容性", "负责配合后台开发人员，完成页面的交互及接口对接", "负责电脑端及移动端 Web 项目的前端开发"]
-            }],
+            }
+            // {
+            //     company: "西安智通网络科技有限公司",
+            //     position: "Web 前端工程师",
+            //     website: "",
+            //     startDate: "2016.09",
+            //     endDate: "2017.9",
+            //     summary: "西安智通网络科技有限公司",
+            //     highlights: ["Photoshop 对设计图进行切片", "HTML5 + CSS3 编写网站页面，并保证浏览器的兼容性", "负责配合后台开发人员，完成页面的交互及接口对接", "负责电脑端及移动端 Web 项目的前端开发"]
+            // }
+            ],
             project: [{
                 organization: "绿果农场",
                 position: "Web 前端工程师",
@@ -1006,7 +1015,7 @@
             skills: [{
                 name: "前端",
                 level: "master",
-                keywords: ["HTML", "CSS", "Javascript", "jQuery", "apicloud","vue","微信小程序"]
+                keywords: ["HTML", "CSS", "Javascript", "jQuery", "apicloud","Vue","微信小程序"]
             },
             {
                 name: "后端",
