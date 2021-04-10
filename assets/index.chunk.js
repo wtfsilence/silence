@@ -864,7 +864,7 @@
                 age: "27",
                 worklife: "3",
                 label: "我是一个喜欢做菜的码农",
-                picture: "https://github.com/wtfsilence/wtfsilence.github.io/blob/master/assets/1.jpg",
+                picture: "https://img0.baidu.com/it/u=813171515,3593460038&fm=26&fmt=auto&gp=0.jpg",
                 email: "894532264@qq.com",
                 phone: "15594696995",
                 website: "https://github.com/silence",
