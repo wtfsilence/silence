@@ -1,4 +1,4 @@
-# wtfsilence.github.io
+ q# wtfsilence.github.io
 
 基于 React + React-router + ES6 前端项目
 
@@ -44,7 +44,7 @@ src/
 ## 使用方法
 
 ```sh
-$ git clone https://github.com/silence/silence.github.io.git
+$ git clone https://github.com/wtfsilence/wtfsilence.github.io.git
 $ cd silence.github.io
 ```
 

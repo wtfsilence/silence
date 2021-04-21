@@ -867,12 +867,12 @@
                 picture: "https://img0.baidu.com/it/u=813171515,3593460038&fm=26&fmt=auto&gp=0.jpg",
                 email: "894532264@qq.com",
                 phone: "15594696995",
-                website: "https://github.com/silence",
-                summary: ["个人主攻 Web 前端和 APP 开发 和小程序开发，3年+前端开发经验，参与或独立开发过多个核心项目，项目类型涉及：电子商务、企业管理、旅游、趣味游戏等等", "喜欢关注 Web 前端相关新技术（React、Angular、Vue...），对于新技术有很强的学习兴趣", "喜欢技术高超的人，喜欢去研究一些新的知识", "热爱前端这份工作，也热爱一切美好的事物，对于我来说，是一种责任、是一种快乐"],
+                website: "https://github.com/wtfsilence",
+                summary: ["个人主攻 Web 前端和 APP 开发 和小程序开发，3年+前端开发经验，参与或独立开发过多个核心项目，项目类型涉及：电子商务、企业管理、旅游等等", "喜欢关注 Web 前端相关新技术方向（Vue、Nodejs、Apicloud、小程序...），对于新技术有很强的学习兴趣", "喜欢技术高超的人，喜欢去研究一些新的知识", "热爱前端这份工作，也热爱一切美好的事物，对于我来说，是一种责任、是一种快乐"],
                 location: "西安市雁塔区",
                 profiles: [{
                     network: "github",
-                    username: "silence",
+                    username: "wtfsilence",
                     url: "https://github.com/wtfsilence"
                 },
                 {
@@ -888,7 +888,7 @@
                 startDate: "2019.01",
                 endDate: "2020-12",
                 summary: "西安比熊网络科技有限公司",
-                highlights: ["根据产品需求文档，进行 Web 前端开发，前端主体框架选型，搭建基础框架", "根据设计提供的设计稿编写静态页面", "Javascript 数据处理、Ajax 交互开发", "负责配合后台开发人员，完成页面的交互及接口对接", "负责团队的前端开发质量，提高效率，实施前后端分离", "负责前端技术的完善，以用户为中心，不断尝试前端新技术，提升团队水平"]
+                highlights: ["根据产品需求文档，进行 Web 前端开发，前端主体框架选型，搭建基础框架", "根据设计提供的设计稿编写静态页面", "Javascript 数据处理、Ajax 交互开发", "负责配合后台开发人员，完成页面的交互及接口对接", "负责团队的前端开发质量，提高效率，实施前后端分离", "负责前端技术的完善，以用户为中心，不断尝试前端新技术，等等"]
             },
             {
                 company: "西安比熊网络科技有限公司",
@@ -910,85 +910,93 @@
             // }
             ],
             project: [{
-                organization: "绿果农场",
+                organization: "退役军人之家 PC",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2018.11",
-                endDate: "2018.12",
-                summary: "微信小程序",
-                highlights: ["2018年11月到2017年12月独立负责开发的一款商城类项目，包括购物车、产品详情、物流等功能；", "前端采用微信小程序开发，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
+                // startDate: "2020.03",
+                // endDate: "2020.05",
+                summary: "vue、vue-router、axios、element、vuex、NProgress",
+                highlights: ["2020年3月到2020年5月团队合作开发的一款管理类项目，包括人员档案管理、人员信息管理、系统管理、诉求信息管理等功能；", "前端vue，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
+            },{
+                organization: "民生银行 H5",
+                position: "Web 前端工程师",
+                website: "",
+                // startDate: "2020.02",
+                // endDate: "2020.03",
+                summary: "微信公众号",
+                highlights: ["2020年02月到2020年03月独立负责开发的一款理财类项目，包括产品信息、投资理财等功能；", "前端采用微信公众号开发，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
             },
             {
-                organization: "哐糖",
+                organization: "国联质检小程序、国联质检名片小程序",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2018.10",
-                endDate: "2018.11",
-                summary: "微信公众号",
+                // startDate: "2019.10",
+                // endDate: "2020.02",
+                summary: "微信小程序",
                 highlights: ["产品包括线上抓娃娃、车辆保养、邀请新人、以及领养萌宠等功能；", "免费体验在线抓娃娃，无需下载APP在家即可轻松抓娃娃，抓到后还包邮；", "项目上线后，前端性能表现良好，用户表示很满意，为公司创造了更多的收益。"]
             },
             {
-                organization: "陕西省科技创新服务平台",
+                organization: "国联质检管理后台 PC",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2018.08",
-                endDate: "2018.10",
-                summary: "html、css3、jQuery、thinkphp",
-                highlights: ["产品包括官网、小程序、公众号、订阅号；", "根据产品需求文档进行需求拆分，技术选型与搭建框架等开发；", "使用jQuery完成网站内部的动态效果的实现，", "项目上线后，提升了企业的知名度，以及能为各种企业提供科技咨询服务、科技项目服务、知识产权、企业信用评级、财税审计服务、法律服务等等。"]
+                // startDate: "2019.10",
+                // endDate: "2020.01",
+                summary: "vue、vue-router、axios、element、vuex、NProgress",
+                highlights: ["unqd-admin-h5是一个电商后台管理系统的前端项目","基于Vue+Element实现。主要包括商品管理、订单管理、用户管理、资讯管理、财务管理、统计报表、权限管理、卡片管理、设置等功能。"]
             },
             {
-                organization: "卷书云（pc+移动端）",
+                organization: "Umall商城 APP",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2018.07",
-                endDate: "2018.08",
-                summary: "html、css3、jQuery、thinkphp",
-                highlights: ["产品包括卷书头条、支持与服务、合作模式，联系我们等功能，将教学、科研、管理和学堂进行充分融合；", "根据产品需求文档进行需求拆分，技术选型与搭建框架等开发；", "使用jQuery完成网站内部的动态效果的实现", "项目正式上线之后，提升了企业的知名度，课堂效率和质量直线走高，受到教师与家长的广泛好评。"]
+                // startDate: "2019.07",
+                // endDate: "2019.10",
+                summary: "vue + apicloud + vant",
+                highlights: ["2019年07月到2019年10月我们四人小组负责开发一款商城的项目，包括首页、分类、购物车，我的，能更好的更优惠的物品展示在客户APP上；","作为团队中的核心程序员，我负责项目的调研，根据产品需求文档进行需求拆分，技术选型与搭建框架等开发；", "让用户不仅享受购物的便利和优惠的价格，还让推广者获得劳动报酬。"]
             },
             {
-                organization: "工管大师",
+                organization: "金龙鱼H5",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2018.04",
-                endDate: "2018.07",
-                summary: "apicloud",
-                highlights: ["工管大师APP是在互联网、大数据时代下，基于物联网、云计算、移动通讯等技术", "该产品为现场施工人员和上级管理人员量身打造的专业手机应用平台", "为用户解除空间位置的束缚，随时随地掌握工地实时动态", "辅助用户迅速判夺管理决策，系统性地解决了施工现场各方管理问题。"]
+                // startDate: "2019.06",
+                // endDate: "2019.07",
+                summary: "vue + vue-router + vue-cli + vant",
+                highlights: ["金龙鱼H5采用 Vue + Vue-router + Vue-cli 为主体框架开发，主要完成登陆模块、购物车、我的等模块，我的模块主要包括收货地址、我的订单等"]
             },
             {
-                organization: "悦美经纪人",
+                organization: "百商优鉴 H5",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2018.03",
-                endDate: "2018.04",
+                // startDate: "2019.05",
+                // endDate: "2019.06",
                 summary: "微信公众号",
                 highlights: ["项目基于 微信公众号源代码 重构项目，克服了多人协作开发的问题，使得研发成本大大降低、快速上线。"]
             },
             {
-                organization: "都拍",
+                organization: "点钻猫 APP",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2018.03",
-                endDate: "2018.05",
-                summary: "apicloud",
-                highlights: ["可以将拍摄的照片进行上传、分享。然后人们在互相分享中，获知各个景点的实时景色状况、留下旅行回忆、结识更多驴友", "各个景点，也在人们的互相分享中，得以宣传推广，从而促进全域旅游。"]
+                // startDate: "2019.03",
+                // endDate: "2019.05",
+                summary: "apicloud、vue",
+                highlights: ["可以将拍摄的视频进行上传、分享。然后人们在互相分享中，获知一些景点的实时景色状况、或者个人喜欢的视频、留下美好回忆", "视频，也在人们的互相分享中，得以宣传推广，从而促进短视频发展。"]
             },
             {
-                organization: "中海帮家业主端",
+                organization: "魅色一卡通APP",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2017.12",
-                endDate: "2018.03",
-                summary: "apicloud",
-                highlights: ["项目基于 apicloud 开发","软件服务于业主，为了方便业主进行维修业务的操作", "提高工作效率，解决生活中常见的房屋问题而开发的软件", "可以查询房屋维修进度已经工人的基本信息。"]
+                // startDate: "2019.01",
+                // endDate: "2019.03",
+                summary: "apicloud、vue",
+                highlights: ["项目基于apicloud、vue技术栈，2019年1月到2019年3月团队合作开发的一款商城类项目，包括购物车、产品详情、物流、小游戏等功能；", "前端采用微信小程序开发，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
             },
             {
-                organization: "中海帮家管理端",
+                organization: "魅色一卡通",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2017.09",
-                endDate: "2017.12",
-                summary: "apicloud",
-                highlights: ["项目基于 apicloud 开发", "依靠软件管理技术按照维修流程解决生活中出现的房屋维修问题", "手机注册授权确认身份后才登录", "可以解决一般问题，中等问题", "重大问题，代工维修，维修冻结，维修解冻，无效问题等维修常见问题。"]
+                // startDate: "2019.01",
+                // endDate: "2019.03",
+                summary: "微信小程序",
+                highlights: ["2019年1月到2019年3月团队合作开发的一款商城类项目，包括购物车、产品详情、物流、小游戏等功能；", "前端采用微信小程序开发，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
             }],
             education: [{
                 institution: "陕西工商职业学院",
@@ -997,7 +1005,7 @@
                 startDate: "2013-09",
                 endDate: "2016-06",
                 gpa: "3.0",
-                courses: ["计算机应用", "旅游管理", "管理学"]
+                courses: ["计算机基础", "旅游管理", "管理学"]
             }],
             awards: [{
                 title: "",
@@ -1015,12 +1023,12 @@
             skills: [{
                 name: "前端",
                 level: "master",
-                keywords: ["HTML", "CSS", "Javascript", "jQuery", "apicloud","Vue","微信小程序"]
+                keywords: ["HTML5", "CSS3", "Javascript", "jQuery", "Apicloud","Vue","微信小程序"]
             },
             {
                 name: "后端",
                 level: "master",
-                keywords: ["php", "nodejs"]
+                keywords: ["PHP", "Nodejs"]
             }],
             languages: [{
                 language: "中文",
@@ -1031,8 +1039,8 @@
                 keywords: ["微信", "微博", "QQ", "简书"]
             }],
             references: [{
-                name: "德里希·尼采",
-                reference: "当你远远凝视深渊时，深渊也在凝视你。"
+                // name: "张仪飞",
+                reference: "我们各自努力，最高处见"
             }]
         }
     },
