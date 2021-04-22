@@ -182,10 +182,10 @@
                     E.a.createElement("div", {
                         className: "footer"
                     },
-                    "简历模板由 silence 开发，最后更新于", E.a.createElement("span", {
+                    "简历模板由 wtfsilence 开发，最后更新于", E.a.createElement("span", {
                         className: "date"
                     },
-                    "2018-05-14")))
+                    "2020-04-01")))
                 }
             }]),
             a
@@ -468,58 +468,58 @@
                         className: "detail",
                         id: "publications"
                     },
-                    E.a.createElement("div", {
-                        className: "icon"
-                    },
-                    E.a.createElement("i", {
-                        className: "fs-lg icon-newspaper"
-                    }), E.a.createElement("span", {
-                        className: "mobile-title"
-                    },
-                    "作品展示")), E.a.createElement("div", {
-                        className: "info"
-                    },
-                    E.a.createElement("h4", {
-                        className: "title text-uppercase"
-                    },
-                    "作品展示"), E.a.createElement("div", {
-                        className: "content"
-                    },
-                    E.a.createElement("ul", {
-                        className: "list-unstyled clear-margin"
-                    },
-                    m.map(function(e, a) {
-                        return E.a.createElement("li", {
-                            key: a,
-                            className: "card card-nested"
-                        },
-                        E.a.createElement("div", {
-                            className: "content"
-                        },
-                        E.a.createElement("div", {
-                            className: "header"
-                        },
-                        E.a.createElement("h4", {
-                            className: "header-title"
-                        },
-                        E.a.createElement("a", {
-                            href: e.html_url,
-                            target: "_blank"
-                        },
-                        e.name)), E.a.createElement("p", {
-                            className: "header-text"
-                        },
-                        "Star: ", e.stargazers_count, " Fork: ", e.forks_count)), E.a.createElement("p", {
-                            className: "text-muted"
-                        },
-                        E.a.createElement("small", null, e.releaseDate)), E.a.createElement("div", {
-                            className: "mop-wrapper"
-                        },
-                        E.a.createElement("p", null, e.description))))
-                    }))))), E.a.createElement("div", {
-                        className: "detail",
-                        id: "skills"
-                    },
+                    // E.a.createElement("div", {
+                    //     className: "icon"
+                    // },
+                    // E.a.createElement("i", {
+                    //     className: "fs-lg icon-newspaper"
+                    // }), E.a.createElement("span", {
+                    //     className: "mobile-title"
+                    // },
+                    // "作品展示")), E.a.createElement("div", {
+                    //     className: "info"
+                    // },
+                    // E.a.createElement("h4", {
+                    //     className: "title text-uppercase"
+                    // },
+                    // "作品展示"), E.a.createElement("div", {
+                    //     className: "content"
+                    // },
+                    // E.a.createElement("ul", {
+                    //     className: "list-unstyled clear-margin"
+                    // },
+                    // m.map(function(e, a) {
+                    //     return E.a.createElement("li", {
+                    //         key: a,
+                    //         className: "card card-nested"
+                    //     },
+                    //     E.a.createElement("div", {
+                    //         className: "content"
+                    //     },
+                    //     E.a.createElement("div", {
+                    //         className: "header"
+                    //     },
+                    //     E.a.createElement("h4", {
+                    //         className: "header-title"
+                    //     },
+                    //     E.a.createElement("a", {
+                    //         href: e.html_url,
+                    //         target: "_blank"
+                    //     },
+                    //     e.name)), E.a.createElement("p", {
+                    //         className: "header-text"
+                    //     },
+                    //     "Star: ", e.stargazers_count, " Fork: ", e.forks_count)), E.a.createElement("p", {
+                    //         className: "text-muted"
+                    //     },
+                    //     E.a.createElement("small", null, e.releaseDate)), E.a.createElement("div", {
+                    //         className: "mop-wrapper"
+                    //     },
+                    //     E.a.createElement("p", null, e.description))))
+                    // }))))), E.a.createElement("div", {
+                    //     className: "detail",
+                    //     id: "skills"
+                    // },
                     E.a.createElement("div", {
                         className: "icon"
                     },
@@ -558,49 +558,51 @@
                             },
                             e)
                         }))))
-                    }))))), E.a.createElement("div", {
-                        className: "detail",
-                        id: "awards"
-                    },
+                    }))))), 
+                    // E.a.createElement("div", {
+                    //     className: "detail",
+                    //     id: "awards"
+                    // },
+                    // E.a.createElement("div", {
+                    //     className: "icon"
+                    // },
+                    // E.a.createElement("i", {
+                    //     className: "fs-lg icon-trophy"
+                    // }), E.a.createElement("span", {
+                    //     className: "mobile-title"
+                    // },
+                    // "荣誉证书")), E.a.createElement("div", {
+                    //     className: "info"
+                    // },
+                    // E.a.createElement("h4", {
+                    //     className: "title text-uppercase"
+                    // },
+                    // "荣誉证书"), E.a.createElement("div", {
+                    //     className: "content"
+                    // },
+                    // E.a.createElement("ul", {
+                    //     className: "list-unstyled clear-margin"
+                    // },
+                    // s.map(function(e, a) {
+                    //     return E.a.createElement("li", {
+                    //         key: a,
+                    //         className: "card card-nested"
+                    //     },
+                    //     E.a.createElement("div", {
+                    //         className: "content"
+                    //     },
+                    //     E.a.createElement("p", {
+                    //         className: "clear-margin"
+                    //     },
+                    //     E.a.createElement("strong", null, e.title, " "), e.awarder), E.a.createElement("p", {
+                    //         className: "text-muted"
+                    //     },
+                    //     E.a.createElement("small", null, e.date)), E.a.createElement("div", {
+                    //         className: "mop-wrapper"
+                    //     },
+                    //     E.a.createElement("p", null, e.summary))))
+                    // }))))), 
                     E.a.createElement("div", {
-                        className: "icon"
-                    },
-                    E.a.createElement("i", {
-                        className: "fs-lg icon-trophy"
-                    }), E.a.createElement("span", {
-                        className: "mobile-title"
-                    },
-                    "荣誉证书")), E.a.createElement("div", {
-                        className: "info"
-                    },
-                    E.a.createElement("h4", {
-                        className: "title text-uppercase"
-                    },
-                    "荣誉证书"), E.a.createElement("div", {
-                        className: "content"
-                    },
-                    E.a.createElement("ul", {
-                        className: "list-unstyled clear-margin"
-                    },
-                    s.map(function(e, a) {
-                        return E.a.createElement("li", {
-                            key: a,
-                            className: "card card-nested"
-                        },
-                        E.a.createElement("div", {
-                            className: "content"
-                        },
-                        E.a.createElement("p", {
-                            className: "clear-margin"
-                        },
-                        E.a.createElement("strong", null, e.title, " "), e.awarder), E.a.createElement("p", {
-                            className: "text-muted"
-                        },
-                        E.a.createElement("small", null, e.date)), E.a.createElement("div", {
-                            className: "mop-wrapper"
-                        },
-                        E.a.createElement("p", null, e.summary))))
-                    }))))), E.a.createElement("div", {
                         className: "detail",
                         id: "interests"
                     },
@@ -813,14 +815,14 @@
                             return e.scrollToAnchor("publications")
                         }
                     },
-                    f.a.createElement("i", {
-                        className: "mr-10 icon-newspaper"
-                    }), "作品展示")), f.a.createElement("li", null, f.a.createElement("a", {
-                        href: "javascript:;",
-                        onClick: function() {
-                            return e.scrollToAnchor("skills")
-                        }
-                    },
+                    // f.a.createElement("i", {
+                    //     className: "mr-10 icon-newspaper"
+                    // }), "作品展示")), f.a.createElement("li", null, f.a.createElement("a", {
+                    //     href: "javascript:;",
+                    //     onClick: function() {
+                    //         return e.scrollToAnchor("skills")
+                    //     }
+                    // },
                     f.a.createElement("i", {
                         className: "mr-10 icon-tools"
                     }), "技能评价")), f.a.createElement("li", null, f.a.createElement("a", {
@@ -829,14 +831,14 @@
                             return e.scrollToAnchor("awards")
                         }
                     },
-                    f.a.createElement("i", {
-                        className: "mr-10 icon-trophy"
-                    }), "荣誉证书")), f.a.createElement("li", null, f.a.createElement("a", {
-                        href: "javascript:;",
-                        onClick: function() {
-                            return e.scrollToAnchor("interests")
-                        }
-                    },
+                    // f.a.createElement("i", {
+                    //     className: "mr-10 icon-trophy"
+                    // }), "荣誉证书")), f.a.createElement("li", null, f.a.createElement("a", {
+                    //     href: "javascript:;",
+                    //     onClick: function() {
+                    //         return e.scrollToAnchor("interests")
+                    //     }
+                    // },
                     f.a.createElement("i", {
                         className: "mr-10 icon-heart"
                     }), "兴趣爱好")), f.a.createElement("li", null, f.a.createElement("a", {
@@ -875,19 +877,20 @@
                     username: "wtfsilence",
                     url: "https://github.com/wtfsilence"
                 },
-                {
-                    network: "zhihu",
-                    username: "silence",
-                    url: "https://www.jianshu.com/u/c683865d3778"
-                }]
+                // {
+                //     network: "zhihu",
+                //     username: "silence",
+                //     // url: "https://www.jianshu.com/u/c683865d3778"
+                // }
+                ]
             },
             work: [{
                 company: "西安趣链科技有限公司",
                 position: "Web 前端工程师",
                 website: "",
                 startDate: "2019.01",
-                endDate: "2020-12",
-                summary: "西安比熊网络科技有限公司",
+                endDate: "2021.01",
+                summary: "西安趣链科技有限公司",
                 highlights: ["根据产品需求文档，进行 Web 前端开发，前端主体框架选型，搭建基础框架", "根据设计提供的设计稿编写静态页面", "Javascript 数据处理、Ajax 交互开发", "负责配合后台开发人员，完成页面的交互及接口对接", "负责团队的前端开发质量，提高效率，实施前后端分离", "负责前端技术的完善，以用户为中心，不断尝试前端新技术，等等"]
             },
             {
@@ -895,7 +898,7 @@
                 position: "Web 前端工程师",
                 website: "",
                 startDate: "2017.09",
-                endDate: "2018-12",
+                endDate: "2018.12",
                 summary: "西安比熊网络科技有限公司",
                 highlights: ["Photoshop 对设计图进行切片", "HTML5 + CSS3 编写网站页面，并保证浏览器的兼容性", "负责配合后台开发人员，完成页面的交互及接口对接", "负责电脑端及移动端 Web 项目的前端开发"]
             }
@@ -913,16 +916,16 @@
                 organization: "退役军人之家 PC",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2020.03",
-                // endDate: "2020.05",
-                summary: "vue、vue-router、axios、element、vuex、NProgress",
-                highlights: ["2020年3月到2020年5月团队合作开发的一款管理类项目，包括人员档案管理、人员信息管理、系统管理、诉求信息管理等功能；", "前端vue，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
+                startDate: "2020.03",
+                endDate: "至今",
+                summary: "vue + vue-router + axios + element + vuex + NProgress",
+                highlights: ["2020年3月到2020年5月团队合作开发的一款管理类项目，包括人员档案管理、人员信息管理、系统管理、诉求信息管理等功能；", "在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
             },{
                 organization: "民生银行 H5",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2020.02",
-                // endDate: "2020.03",
+                startDate: "2020.02",
+                endDate: "2020.03",
                 summary: "微信公众号",
                 highlights: ["2020年02月到2020年03月独立负责开发的一款理财类项目，包括产品信息、投资理财等功能；", "前端采用微信公众号开发，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
             },
@@ -930,26 +933,26 @@
                 organization: "国联质检小程序、国联质检名片小程序",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2019.10",
-                // endDate: "2020.02",
+                startDate: "2019.10",
+                endDate: "2020.02",
                 summary: "微信小程序",
-                highlights: ["产品包括线上抓娃娃、车辆保养、邀请新人、以及领养萌宠等功能；", "免费体验在线抓娃娃，无需下载APP在家即可轻松抓娃娃，抓到后还包邮；", "项目上线后，前端性能表现良好，用户表示很满意，为公司创造了更多的收益。"]
+                highlights: ["产品包括分类、资讯、购物车、以及我的页面等功能；", "可以在线购买国联质检检测产品；", "项目上线后，前端性能表现良好，用户表示很满意，为公司创造了更多的收益。"]
             },
             {
                 organization: "国联质检管理后台 PC",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2019.10",
-                // endDate: "2020.01",
-                summary: "vue、vue-router、axios、element、vuex、NProgress",
-                highlights: ["unqd-admin-h5是一个电商后台管理系统的前端项目","基于Vue+Element实现。主要包括商品管理、订单管理、用户管理、资讯管理、财务管理、统计报表、权限管理、卡片管理、设置等功能。"]
+                startDate: "2019.10",
+                endDate: "2020.01",
+                summary: "vue + vue-router + axios + element + vuex + NProgress",
+                highlights: ["国联质检平台是一个商业后台管理系统的前端项目","基于vue + vue-router + axios + element + vuex + NProgress实现。主要包括商品管理、订单管理、用户管理、资讯管理、财务管理、统计报表、权限管理、卡片管理、设置等功能。"]
             },
             {
                 organization: "Umall商城 APP",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2019.07",
-                // endDate: "2019.10",
+                startDate: "2019.07",
+                endDate: "2019.10",
                 summary: "vue + apicloud + vant",
                 highlights: ["2019年07月到2019年10月我们四人小组负责开发一款商城的项目，包括首页、分类、购物车，我的，能更好的更优惠的物品展示在客户APP上；","作为团队中的核心程序员，我负责项目的调研，根据产品需求文档进行需求拆分，技术选型与搭建框架等开发；", "让用户不仅享受购物的便利和优惠的价格，还让推广者获得劳动报酬。"]
             },
@@ -957,17 +960,17 @@
                 organization: "金龙鱼H5",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2019.06",
-                // endDate: "2019.07",
+                startDate: "2019.06",
+                endDate: "2019.07",
                 summary: "vue + vue-router + vue-cli + vant",
-                highlights: ["金龙鱼H5采用 Vue + Vue-router + Vue-cli 为主体框架开发，主要完成登陆模块、购物车、我的等模块，我的模块主要包括收货地址、我的订单等"]
+                highlights: ["金龙鱼H5采用 vue + vue-router + vue-cli + vant 为主体框架开发，主要完成登陆模块、购物车、我的等模块，我的模块主要包括收货地址、我的订单等","嵌套在农行App中的H5页面"]
             },
             {
                 organization: "百商优鉴 H5",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2019.05",
-                // endDate: "2019.06",
+                startDate: "2019.05",
+                endDate: "2019.06",
                 summary: "微信公众号",
                 highlights: ["项目基于 微信公众号源代码 重构项目，克服了多人协作开发的问题，使得研发成本大大降低、快速上线。"]
             },
@@ -975,26 +978,26 @@
                 organization: "点钻猫 APP",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2019.03",
-                // endDate: "2019.05",
-                summary: "apicloud、vue",
+                startDate: "2019.03",
+                endDate: "2019.05",
+                summary: "apicloud + vue + vant",
                 highlights: ["可以将拍摄的视频进行上传、分享。然后人们在互相分享中，获知一些景点的实时景色状况、或者个人喜欢的视频、留下美好回忆", "视频，也在人们的互相分享中，得以宣传推广，从而促进短视频发展。"]
             },
             {
                 organization: "魅色一卡通APP",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2019.01",
-                // endDate: "2019.03",
-                summary: "apicloud、vue",
+                startDate: "2019.01",
+                endDate: "2019.03",
+                summary: "apicloud + vue",
                 highlights: ["项目基于apicloud、vue技术栈，2019年1月到2019年3月团队合作开发的一款商城类项目，包括购物车、产品详情、物流、小游戏等功能；", "前端采用微信小程序开发，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
             },
             {
                 organization: "魅色一卡通",
                 position: "Web 前端工程师",
                 website: "",
-                // startDate: "2019.01",
-                // endDate: "2019.03",
+                startDate: "2019.01",
+                endDate: "2019.03",
                 summary: "微信小程序",
                 highlights: ["2019年1月到2019年3月团队合作开发的一款商城类项目，包括购物车、产品详情、物流、小游戏等功能；", "前端采用微信小程序开发，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
             }],
@@ -1013,13 +1016,13 @@
                 awarder: "",
                 summary: ""
             }],
-            publications: [{
-                name: "angular-weui",
-                publisher: "skyvow",
-                releaseDate: "2016-10",
-                website: "https://github.com/skyvow/angular-weui",
-                summary: "Angular WeUI - 基于WeUI封装一些常用指令及服务"
-            }],
+            // publications: [{
+            //     name: "angular-weui",
+            //     publisher: "skyvow",
+            //     releaseDate: "2016-10",
+            //     website: "https://github.com/skyvow/angular-weui",
+            //     summary: "Angular WeUI - 基于WeUI封装一些常用指令及服务"
+            // }],
             skills: [{
                 name: "前端",
                 level: "master",
@@ -1036,7 +1039,7 @@
             }],
             interests: [{
                 name: "社交",
-                keywords: ["微信", "微博", "QQ", "简书"]
+                keywords: ["微信", "微博", "QQ", "抖音"]
             }],
             references: [{
                 // name: "张仪飞",
