@@ -918,7 +918,7 @@
                 website: "",
                 startDate: "2020.03",
                 endDate: "至今",
-                summary: "vue + vue-router + axios + element + vuex + NProgress",
+                summary: "vue + vue-router + axios + element + vuex",
                 highlights: ["2020年3月到2020年5月团队合作开发的一款管理类项目，包括人员档案管理、人员信息管理、系统管理、诉求信息管理等功能；", "在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率；","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
             },{
                 organization: "民生银行 H5",
@@ -944,7 +944,7 @@
                 website: "",
                 startDate: "2019.10",
                 endDate: "2020.01",
-                summary: "vue + vue-router + axios + element + vuex + NProgress",
+                summary: "vue + vue-router + axios + element + vuex",
                 highlights: ["国联质检平台是一个商业后台管理系统的前端项目；","基于vue + vue-router + axios + element + vuex + NProgress实现。主要包括商品管理、订单管理、用户管理、资讯管理、财务管理、统计报表、权限管理、卡片管理、设置等功能。"]
             },
             {
