@@ -933,8 +933,8 @@
                 organization: "国联质检小程序、国联质检名片小程序",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2019.10",
-                endDate: "2020.02",
+                startDate: "2019.11",
+                endDate: "2020.04",
                 summary: "微信小程序",
                 highlights: ["产品包括分类、资讯、购物车、以及我的页面等功能；", "可以在线购买国联质检检测产品；", "项目上线后，前端性能表现良好，用户表示很满意，为公司创造了更多的收益。"]
             },
@@ -942,8 +942,8 @@
                 organization: "国联质检管理后台 PC",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2019.10",
-                endDate: "2020.01",
+                startDate: "2019.11",
+                endDate: "2020.03",
                 summary: "vue + vue-router + axios + element + vuex",
                 highlights: ["国联质检平台是一个商业后台管理系统的前端项目；","基于vue + vue-router + axios + element + vuex实现。主要包括商品管理、订单管理、用户管理、资讯管理、财务管理、统计报表、权限管理、卡片管理、设置等功能。"]
             },
@@ -951,8 +951,8 @@
                 organization: "Umall商城 APP",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2019.07",
-                endDate: "2019.10",
+                startDate: "2019.08",
+                endDate: "2019.11",
                 summary: "vue + apicloud + vant",
                 highlights: ["2019年07月到2019年10月我们四人小组负责开发一款商城的项目，包括首页、分类、购物车，我的，能更好的更优惠的物品展示在客户APP上；","作为团队中的核心程序员，我负责项目的调研，根据产品需求文档进行需求拆分，技术选型与搭建框架等开发；", "让用户不仅享受购物的便利和优惠的价格，还让推广者获得劳动报酬。"]
             },
@@ -961,7 +961,7 @@
                 position: "Web 前端工程师",
                 website: "",
                 startDate: "2019.06",
-                endDate: "2019.07",
+                endDate: "2019.08",
                 summary: "vue + vue-router + vue-cli + vant",
                 highlights: ["金龙鱼H5采用 vue + vue-router + vue-cli + vant 为主体框架开发，主要完成登陆模块、购物车、我的等模块，我的模块主要包括收货地址、我的订单等","嵌套在农行App中的H5页面"]
             },
