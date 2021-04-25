@@ -945,7 +945,7 @@
                 startDate: "2019.10",
                 endDate: "2020.01",
                 summary: "vue + vue-router + axios + element + vuex",
-                highlights: ["国联质检平台是一个商业后台管理系统的前端项目；","基于vue + vue-router + axios + element + vuex + NProgress实现。主要包括商品管理、订单管理、用户管理、资讯管理、财务管理、统计报表、权限管理、卡片管理、设置等功能。"]
+                highlights: ["国联质检平台是一个商业后台管理系统的前端项目；","基于vue + vue-router + axios + element + vuex实现。主要包括商品管理、订单管理、用户管理、资讯管理、财务管理、统计报表、权限管理、卡片管理、设置等功能。"]
             },
             {
                 organization: "Umall商城 APP",
