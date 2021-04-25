@@ -916,7 +916,7 @@
                 organization: "退役军人之家 PC",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2020.03",
+                startDate: "2020.10",
                 endDate: "至今",
                 summary: "vue + vue-router + axios + element + vuex",
                 highlights: ["2020年3月到2020年5月团队合作开发的一款管理类项目，包括人员档案管理、人员信息管理、系统管理、诉求信息管理等功能；", "在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率；","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
@@ -924,8 +924,8 @@
                 organization: "民生银行 H5",
                 position: "Web 前端工程师",
                 website: "",
-                startDate: "2020.02",
-                endDate: "2020.03",
+                startDate: "2020.04",
+                endDate: "2020.06",
                 summary: "vue + vue-router + axios + vuex",
                 highlights: ["2020年02月到2020年03月独立负责开发的一款理财类项目，包括产品信息、投资理财等功能；", "前端采用微信公众号开发，在此封装了高效的可复用的组件模块，通过组件化开发极大的提升了开发效率；","项目上线后用户体验流畅，用户数量不断增加，产品的销售量也在不断增多中。"]
             },
